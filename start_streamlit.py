@@ -15,6 +15,10 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 #import getpass
 
+# Import pysqlite3 to ensure the correct version of sqlite is used
+import pysqlite3
+import sys
+sys.modules['sqlite3'] = pysqlite3
 
 
 # PDF to TXT
