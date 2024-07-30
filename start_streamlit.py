@@ -233,3 +233,20 @@ else:
                     if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
                         with open(file_path, "wb") as f:
                             f.write(uploaded_file.getbuffer())
+                                        st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
+                        convert_pdfs_in_folder(upload_directory)
+                    else:
+                        st.sidebar.warning(f"{uploaded_file.name} already exists.")
+                else:
+                    with open(file_path, "wb") as f:
+                        f.write(uploaded_file.getbuffer())
+                    st.sidebar.success(f"Uploaded {uploaded_file.name} successfully!")
+                    convert_pdfs_in_folder(upload_directory)
+
+    # Button to update the vector database
+    if st.sidebar.button("Vektor-DB aktualisieren"):
+        result = subprocess.run(["python", "tools/metadaten_to_DB.py"], capture_output=True, text=True)
+        if result.returncode == 0:
+            st.sidebar.success("Vektor-DB erfolgreich aktualisiert!")
+        else:
+            st.sidebar.error(f"Fehler beim Aktualisieren der Vektor-DB: {result.stderr}")
