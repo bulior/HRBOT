@@ -106,7 +106,7 @@ if "authenticated" not in st.session_state:
 def login():
     """Authenticate user"""
     password = st.text_input("Enter password", type="password")
-    if password == st.secrets["credentials"]["password"]:
+    if password == st.secrets["password"]:
         st.session_state.authenticated = True
         st.success("Successfully authenticated!")
     else:
