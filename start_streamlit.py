@@ -1,6 +1,3 @@
-##
-## 2024-07-25 v3 - Vorgestellt in Runde 2 mit Karl, Ella Seel und XX
-##
 import os
 import streamlit as st
 import subprocess
@@ -115,6 +112,8 @@ if "chat_id" not in st.session_state:
     st.session_state.chat_id = 1
 if "feedback_given" not in st.session_state:
     st.session_state.feedback_given = False
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
 
 # Get the PC username
 pc_username = "APP" #getpass.getuser()
@@ -180,60 +179,72 @@ def save_all_qa_data():
     with open(qa_file_path, "w") as qa_file:
         json.dump(existing_data, qa_file, indent=4)
 
-# Text input box for user input
-st.text_input("You: ", key="user_input", on_change=handle_user_input)
+# Login screen
+if not st.session_state.authenticated:
+    password = st.text_input("Password", type="password")
+    if st.button("Login"):
+        if password == "5555":
+            st.session_state.authenticated = True
+            st.success("Login successful")
+        else:
+            st.error("Incorrect password")
 
-# Display chat history
-if st.session_state.chat_history:
-    for message in st.session_state.chat_history:
-        if isinstance(message, HumanMessage):
-            st.write(f"You: {message.content}")
-        elif isinstance(message, SystemMessage):
-            st.write(f"HR AI: {message.content}")
+# Main content
+if st.session_state.authenticated:
+    # Text input box for user input
+    st.text_input("You: ", key="user_input", on_change=handle_user_input)
 
-# Ask if the answer was helpful at the end of the conversation
-if st.session_state.chat_history and not st.session_state.feedback_given:
-    st.write("War diese Antwort hilfreich?")
-    col1, col2 = st.columns(2)
-    if col1.button("Yes"):
-        st.session_state.qa_data[-1]["correctAnswer"] = True
-        st.session_state.feedback_given = True
-        st.session_state.chat_id += 1  # Increment chat_id only once per session
-        save_qa_data()
-    if col2.button("No"):
-        st.session_state.qa_data[-1]["correctAnswer"] = False
-        st.session_state.feedback_given = True
-        st.session_state.chat_id += 1  # Increment chat_id only once per session
-        save_qa_data()
+    # Display chat history
+    if st.session_state.chat_history:
+        for message in st.session_state.chat_history:
+            if isinstance(message, HumanMessage):
+                st.write(f"You: {message.content}")
+            elif isinstance(message, SystemMessage):
+                st.write(f"HR AI: {message.content}")
 
-# Sidebar for uploading PDFs
-st.sidebar.image('img/RH.png', width=250, clamp=False)
-with st.sidebar.expander("Add new Documents as Knowledge", expanded=True):
-    uploaded_files = st.file_uploader("Upload PDF", type=["pdf"], accept_multiple_files=True)
-    if uploaded_files:
-        for uploaded_file in uploaded_files:
-            upload_directory = os.path.join(current_dir, "docs/uploaded_documents")
-            os.makedirs(upload_directory, exist_ok=True)  # Ensure the uploaded_documents directory exists
-            file_path = os.path.join(upload_directory, uploaded_file.name)
+    # Ask if the answer was helpful at the end of the conversation
+    if st.session_state.chat_history and not st.session_state.feedback_given:
+        st.write("War diese Antwort hilfreich?")
+        col1, col2 = st.columns(2)
+        if col1.button("Yes"):
+            st.session_state.qa_data[-1]["correctAnswer"] = True
+            st.session_state.feedback_given = True
+            st.session_state.chat_id += 1  # Increment chat_id only once per session
+            save_qa_data()
+        if col2.button("No"):
+            st.session_state.qa_data[-1]["correctAnswer"] = False
+            st.session_state.feedback_given = True
+            st.session_state.chat_id += 1  # Increment chat_id only once per session
+            save_qa_data()
 
-            if os.path.exists(file_path):
-                if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
+    # Sidebar for uploading PDFs
+    st.sidebar.image('img/RH.png', width=250, clamp=False)
+    with st.sidebar.expander("Add new Documents as Knowledge", expanded=True):
+        uploaded_files = st.file_uploader("Upload PDF", type=["pdf"], accept_multiple_files=True)
+        if uploaded_files:
+            for uploaded_file in uploaded_files:
+                upload_directory = os.path.join(current_dir, "docs/uploaded_documents")
+                os.makedirs(upload_directory, exist_ok=True)  # Ensure the uploaded_documents directory exists
+                file_path = os.path.join(upload_directory, uploaded_file.name)
+
+                if os.path.exists(file_path):
+                    if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
+                        with open(file_path, "wb") as f:
+                            f.write(uploaded_file.getbuffer())
+                        st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
+                        convert_pdfs_in_folder(upload_directory)
+                    else:
+                        st.sidebar.warning(f"{uploaded_file.name} already exists.")
+                else:
                     with open(file_path, "wb") as f:
                         f.write(uploaded_file.getbuffer())
-                    st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
+                    st.sidebar.success(f"Uploaded {uploaded_file.name} successfully!")
                     convert_pdfs_in_folder(upload_directory)
-                else:
-                    st.sidebar.warning(f"{uploaded_file.name} already exists.")
-            else:
-                with open(file_path, "wb") as f:
-                    f.write(uploaded_file.getbuffer())
-                st.sidebar.success(f"Uploaded {uploaded_file.name} successfully!")
-                convert_pdfs_in_folder(upload_directory)
 
-# Button to update the vector database
-if st.sidebar.button("Vektor-DB aktualisieren"):
-    result = subprocess.run(["python", "tools/metadaten_to_DB.py"], capture_output=True, text=True)
-    if result.returncode == 0:
-        st.sidebar.success("Vektor-DB erfolgreich aktualisiert!")
-    else:
-        st.sidebar.error(f"Fehler beim Aktualisieren der Vektor-DB: {result.stderr}")
+    # Button to update the vector database
+    if st.sidebar.button("Vektor-DB aktualisieren"):
+        result = subprocess.run(["python", "tools/metadaten_to_DB.py"], capture_output=True, text=True)
+        if result.returncode == 0:
+            st.sidebar.success("Vektor-DB erfolgreich aktualisiert!")
+        else:
+            st.sidebar.error(f"Fehler beim Aktualisieren der Vektor-DB: {result.stderr}")
