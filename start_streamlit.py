@@ -15,6 +15,8 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 #import getpass
 
+
+
 # PDF to TXT
 from tools.PDFtoTXT import convert_pdfs_in_folder
 
