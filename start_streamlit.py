@@ -1,5 +1,4 @@
-import os
-import streamlit.cli as stcli
+import subprocess
 
 if __name__ == '__main__':
-    os.system('streamlit run app3.py')
+    subprocess.run(["streamlit", "run", "app3.py"])
