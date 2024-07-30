@@ -1,3 +1,6 @@
+##
+## 2024-07-25 v3 - Vorgestellt in Runde 2 mit Karl, Ella Seel und XX
+##
 import os
 import streamlit as st
 import subprocess
@@ -11,12 +14,6 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 #import getpass
-
-# Import pysqlite3 to ensure the correct version of sqlite is used
-import pysqlite3
-import sys
-sys.modules['sqlite3'] = pysqlite3
-
 
 # PDF to TXT
 from tools.PDFtoTXT import convert_pdfs_in_folder
@@ -99,22 +96,32 @@ rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chai
 # Streamlit app
 st.set_page_config(page_title='RH Bot',  layout = 'wide', initial_sidebar_state = 'auto')
 
+# Define username and password
+USERNAME = "RH"
+PASSWORD = "5555"
+
 # Initialize session state for authentication
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 
-def login():
-    """Authenticate user"""
-    password = st.text_input("Enter password", type="password")
-    if password == st.secrets["password"]:
-        st.session_state.authenticated = True
-        st.success("Successfully authenticated!")
-    else:
-        st.error("Invalid password")
+# Initialize session state for authentication
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
 
-if not st.session_state.authenticated:
-    login()
-else:
+# Login function
+def login():
+    if st.session_state.username == USERNAME and st.session_state.password == PASSWORD:
+        st.session_state.authenticated = True
+    else:
+        st.error("Invalid username or password")
+
+    # Show login screen if not authenticated
+    if not st.session_state.authenticated:
+        st.title("Login")
+        st.text_input("Username", key="username")
+        st.text_input("Password", type="password", key="password")
+        st.button("Login", on_click=login)
+    else:
     st.title("💬 HR Chatbot")
 
     # Initialize session state
@@ -233,7 +240,7 @@ else:
                     if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
                         with open(file_path, "wb") as f:
                             f.write(uploaded_file.getbuffer())
-                                        st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
+                        st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
                         convert_pdfs_in_folder(upload_directory)
                     else:
                         st.sidebar.warning(f"{uploaded_file.name} already exists.")
