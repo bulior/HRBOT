@@ -13,7 +13,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-import getpass
+#import getpass
 
 # PDF to TXT
 from tools.PDFtoTXT import convert_pdfs_in_folder
@@ -111,7 +111,7 @@ if "feedback_given" not in st.session_state:
     st.session_state.feedback_given = False
 
 # Get the PC username
-pc_username = getpass.getuser()
+pc_username = "APP" #getpass.getuser()
 
 # Function to handle user input
 def handle_user_input():
