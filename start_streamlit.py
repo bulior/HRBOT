@@ -1,6 +1,3 @@
-##
-## 2024-07-25 v3 - Vorgestellt in Runde 2 mit Karl, Ella Seel und XX
-##
 import os
 import streamlit as st
 import subprocess
@@ -102,138 +99,137 @@ rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chai
 # Streamlit app
 st.set_page_config(page_title='RH Bot',  layout = 'wide', initial_sidebar_state = 'auto')
 
-st.title("💬 HR Chatbot")
+# Initialize session state for authentication
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
 
-# Initialize session state
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
-if "user_input" not in st.session_state:
-    st.session_state.user_input = ""
-if "qa_data" not in st.session_state:
-    st.session_state.qa_data = []
-if "chat_id" not in st.session_state:
-    st.session_state.chat_id = 1
-if "feedback_given" not in st.session_state:
-    st.session_state.feedback_given = False
-
-# Get the PC username
-pc_username = "APP" #getpass.getuser()
-
-# Function to handle user input
-def handle_user_input():
-    user_input = st.session_state.user_input
-    result = rag_chain.invoke({"input": user_input, "chat_history": st.session_state.chat_history})
-    st.session_state.chat_history.append(HumanMessage(content=user_input))
-    st.session_state.chat_history.append(SystemMessage(content=result["answer"]))
-    
-    # Log the QA data
-    qa_entry = {
-        "chat_id": st.session_state.chat_id,
-        "user": pc_username,
-        "date": datetime.now().isoformat(),
-        "question": user_input,
-        "answer": result["answer"],
-        "correctAnswer": None  # Will be updated based on user feedback
-    }
-    st.session_state.qa_data.append(qa_entry)
-    
-    # Save Q&A data immediately to QA.json
-    save_all_qa_data()
-
-    # Clear the input box after processing
-    st.session_state.user_input = ""
-
-# Function to save QA data to JSON file
-def save_qa_data():
-    qa_file_path = os.path.join(current_dir, "db/QA_feedback.json")
-    
-    # Load existing data
-    if os.path.exists(qa_file_path):
-        with open(qa_file_path, "r") as qa_file:
-            existing_data = json.load(qa_file)
+def login():
+    """Authenticate user"""
+    password = st.text_input("Enter password", type="password")
+    if password == st.secrets["credentials"]["password"]:
+        st.session_state.authenticated = True
+        st.success("Successfully authenticated!")
     else:
-        existing_data = []
+        st.error("Invalid password")
 
-    # Append new data
-    existing_data.extend(st.session_state.qa_data)
-    
-    # Save combined data back to file
-    with open(qa_file_path, "w") as qa_file:
-        json.dump(existing_data, qa_file, indent=4)
-    st.sidebar.success("Danke für das Feedback!")
+if not st.session_state.authenticated:
+    login()
+else:
+    st.title("💬 HR Chatbot")
 
-# Function to save all Q&A data to QA.json file
-def save_all_qa_data():
-    qa_file_path = os.path.join(current_dir, "db/QA.json")
-    
-    # Load existing data
-    if os.path.exists(qa_file_path):
-        with open(qa_file_path, "r") as qa_file:
-            existing_data = json.load(qa_file)
-    else:
-        existing_data = []
+    # Initialize session state
+    if "chat_history" not in st.session_state:
+        st.session_state.chat_history = []
+    if "user_input" not in st.session_state:
+        st.session_state.user_input = ""
+    if "qa_data" not in st.session_state:
+        st.session_state.qa_data = []
+    if "chat_id" not in st.session_state:
+        st.session_state.chat_id = 1
+    if "feedback_given" not in st.session_state:
+        st.session_state.feedback_given = False
 
-    # Append new data
-    existing_data.extend(st.session_state.qa_data)
-    
-    # Save combined data back to file
-    with open(qa_file_path, "w") as qa_file:
-        json.dump(existing_data, qa_file, indent=4)
+    # Get the PC username
+    pc_username = "APP" #getpass.getuser()
 
-# Text input box for user input
-st.text_input("You: ", key="user_input", on_change=handle_user_input)
+    # Function to handle user input
+    def handle_user_input():
+        user_input = st.session_state.user_input
+        result = rag_chain.invoke({"input": user_input, "chat_history": st.session_state.chat_history})
+        st.session_state.chat_history.append(HumanMessage(content=user_input))
+        st.session_state.chat_history.append(SystemMessage(content=result["answer"]))
+        
+        # Log the QA data
+        qa_entry = {
+            "chat_id": st.session_state.chat_id,
+            "user": pc_username,
+            "date": datetime.now().isoformat(),
+            "question": user_input,
+            "answer": result["answer"],
+            "correctAnswer": None  # Will be updated based on user feedback
+        }
+        st.session_state.qa_data.append(qa_entry)
+        
+        # Save Q&A data immediately to QA.json
+        save_all_qa_data()
 
-# Display chat history
-if st.session_state.chat_history:
-    for message in st.session_state.chat_history:
-        if isinstance(message, HumanMessage):
-            st.write(f"You: {message.content}")
-        elif isinstance(message, SystemMessage):
-            st.write(f"HR AI: {message.content}")
+        # Clear the input box after processing
+        st.session_state.user_input = ""
 
-# Ask if the answer was helpful at the end of the conversation
-if st.session_state.chat_history and not st.session_state.feedback_given:
-    st.write("War diese Antwort hilfreich?")
-    col1, col2 = st.columns(2)
-    if col1.button("Yes"):
-        st.session_state.qa_data[-1]["correctAnswer"] = True
-        st.session_state.feedback_given = True
-        st.session_state.chat_id += 1  # Increment chat_id only once per session
-        save_qa_data()
-    if col2.button("No"):
-        st.session_state.qa_data[-1]["correctAnswer"] = False
-        st.session_state.feedback_given = True
-        st.session_state.chat_id += 1  # Increment chat_id only once per session
-        save_qa_data()
+    # Function to save QA data to JSON file
+    def save_qa_data():
+        qa_file_path = os.path.join(current_dir, "db/QA_feedback.json")
+        
+        # Load existing data
+        if os.path.exists(qa_file_path):
+            with open(qa_file_path, "r") as qa_file:
+                existing_data = json.load(qa_file)
+        else:
+            existing_data = []
 
-# Sidebar for uploading PDFs
-st.sidebar.image('img/RH.png', width=250, clamp=False)
-with st.sidebar.expander("Add new Documents as Knowledge", expanded=True):
-    uploaded_files = st.file_uploader("Upload PDF", type=["pdf"], accept_multiple_files=True)
-    if uploaded_files:
-        for uploaded_file in uploaded_files:
-            upload_directory = os.path.join(current_dir, "docs/uploaded_documents")
-            os.makedirs(upload_directory, exist_ok=True)  # Ensure the uploaded_documents directory exists
-            file_path = os.path.join(upload_directory, uploaded_file.name)
+        # Append new data
+        existing_data.extend(st.session_state.qa_data)
+        
+        # Save combined data back to file
+        with open(qa_file_path, "w") as qa_file:
+            json.dump(existing_data, qa_file, indent=4)
+        st.sidebar.success("Danke für das Feedback!")
 
-            if os.path.exists(file_path):
-                if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
-                    with open(file_path, "wb") as f:
-                        f.write(uploaded_file.getbuffer())
-                    st.sidebar.success(f"Overwritten {uploaded_file.name} successfully!")
-                    convert_pdfs_in_folder(upload_directory)
-                else:
-                    st.sidebar.warning(f"{uploaded_file.name} already exists.")
-            else:
-                with open(file_path, "wb") as f:
-                    f.write(uploaded_file.getbuffer())
-                st.sidebar.success(f"Uploaded {uploaded_file.name} successfully!")
-                convert_pdfs_in_folder(upload_directory)
+    # Function to save all Q&A data to QA.json file
+    def save_all_qa_data():
+        qa_file_path = os.path.join(current_dir, "db/QA.json")
+        
+        # Load existing data
+        if os.path.exists(qa_file_path):
+            with open(qa_file_path, "r") as qa_file:
+                existing_data = json.load(qa_file)
+        else:
+            existing_data = []
 
-# Button to update the vector database
-if st.sidebar.button("Vektor-DB aktualisieren"):
-    result = subprocess.run(["python", "tools/metadaten_to_DB.py"], capture_output=True, text=True)
-    if result.returncode == 0:
-        st.sidebar.success("Vektor-DB erfolgreich aktualisiert!")
-    else:
-        st.sidebar.error(f"Fehler beim Aktualisieren der Vektor-DB: {result.stderr}")
+        # Append new data
+        existing_data.extend(st.session_state.qa_data)
+        
+        # Save combined data back to file
+        with open(qa_file_path, "w") as qa_file:
+            json.dump(existing_data, qa_file, indent=4)
+
+    # Text input box for user input
+    st.text_input("You: ", key="user_input", on_change=handle_user_input)
+
+    # Display chat history
+    if st.session_state.chat_history:
+        for message in st.session_state.chat_history:
+            if isinstance(message, HumanMessage):
+                st.write(f"You: {message.content}")
+            elif isinstance(message, SystemMessage):
+                st.write(f"HR AI: {message.content}")
+
+    # Ask if the answer was helpful at the end of the conversation
+    if st.session_state.chat_history and not st.session_state.feedback_given:
+        st.write("War diese Antwort hilfreich?")
+        col1, col2 = st.columns(2)
+        if col1.button("Yes"):
+            st.session_state.qa_data[-1]["correctAnswer"] = True
+            st.session_state.feedback_given = True
+            st.session_state.chat_id += 1  # Increment chat_id only once per session
+            save_qa_data()
+        if col2.button("No"):
+            st.session_state.qa_data[-1]["correctAnswer"] = False
+            st.session_state.feedback_given = True
+            st.session_state.chat_id += 1  # Increment chat_id only once per session
+            save_qa_data()
+
+    # Sidebar for uploading PDFs
+    st.sidebar.image('img/RH.png', width=250, clamp=False)
+    with st.sidebar.expander("Add new Documents as Knowledge", expanded=True):
+        uploaded_files = st.file_uploader("Upload PDF", type=["pdf"], accept_multiple_files=True)
+        if uploaded_files:
+            for uploaded_file in uploaded_files:
+                upload_directory = os.path.join(current_dir, "docs/uploaded_documents")
+                os.makedirs(upload_directory, exist_ok=True)  # Ensure the uploaded_documents directory exists
+                file_path = os.path.join(upload_directory, uploaded_file.name)
+
+                if os.path.exists(file_path):
+                    if st.sidebar.button(f"Overwrite {uploaded_file.name}?"):
+                        with open(file_path, "wb") as f:
+                            f.write(uploaded_file.getbuffer())
