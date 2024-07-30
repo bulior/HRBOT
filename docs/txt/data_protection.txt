@@ -1,0 +1,303 @@
+Rheinmetall Group - Datenschutzerklärung  
+Information über die Verarbeitung Ihrer personenbezogenen Daten in SAP  „Success Factors“ 
+gemäß Art. 13 DSGVO  
+ 
+Transparenz und ein vertrauensvoller Umgang mit Ihren personenbezogenen Daten ist eine wichtige 
+Grundlage für eine gute Zusammenarbeit. Daher informieren wir Sie darüber, wie wir Ihre Daten in SAP 
+Success Factors verarbeiten und wie Sie Ihre Rechte wahrneh men können, die Ihnen nach den 
+Datenschutz -Gesetzen (z. B. DSGVO) zustehen.  
+Mit den nachstehenden Informationen erhalten Sie einen Überblick über die Erhebung und 
+Verarbeitung Ihrer personenbezogenen Daten im Zusammenhang mit dem Einsatz des Systems SAP 
+Success Factors. Die Informationen können je nach Jobposition und Arbeitsbereich variieren.  
+ 
+ 
+1 Wer ist für die Datenverarbeitung verantwortlich?  
+ 
+Verantwortlicher nach DSGVO ist Ihr Arbeitgeber, d. h. die Gesellschaft bei der Sie Ihren 
+Anstellungsvertrag ha ben. 
+ 
+ 
+2 Wie erreichen Sie den Datenschutzbeauftragten?  
+ 
+Den für sie zuständigen Datenschutzbeauftragten finden Sie im Gate unter:  
+ 
+Mein Unternehmen -> Organisation -> Fachbereiche -> Compliance -> Funktionsbereiche -> 
+Data Protection -> Datenschutzbeauftr agte 
+ 
+ 
+3 Welche Ihrer personenbezogenen Daten werden von uns genutzt?  
+ 
+Wir verarbeiten Ihre personenbezogenen Daten, soweit diese zur Begründung, Durchführung und 
+Beendigung eines Beschäftigungsverhältnisses oder einer sonstigen Dienst -Vereinbarung mit der  
+Rheinmetall Group erforderlich sind.  
+ 
+Hierzu verarbeiten wir unter anderem:  
+ Allgemeine Stammdaten (z. B. Name, Adresse und Kontaktinformationen);  
+ Organisatorische Informationen (z. B. Unternehmen, Abteilung und Funktion);  
+ Vertragsdaten (z. B. wie Eintrittsdatum, Mitarbeiterstatus, Vertragstyp);  
+ Daten bei Nutzung des Self -Services des SAP Success Factors Systems (z. B. 
+Passwörter  (verschlüsselt), Logins, IP -Adresse,)  
+ Profilbild (sofern von I hnen freiwillig bereitgestellt)  
+Hier handelt es sich um Dat en, die während Ihrer Tätigkeit im Unternehmen regelmäßig anfallen 
+können. Die betroffenen Daten können je nach Ihrer persönlichen Situation, nach Jobposition und 
+Arbeitsbereich variieren.  
+ 
+ 
+4 Aus welchen Quellen stammen die Daten?  
+ 
+Ihre personenbezogenen Daten werden grundsätzlich direkt bei Ihnen im Rahmen des 
+Einstellungsprozesses oder während des Beschäftigungsverhältnisses erhoben. Bei Leiharbeitnehmern 
+können die Daten auch vom Verleiher stammen bzw. bei weiteren bei der Rheinmetall Group tätigen 
+Personen auch von dessen Arbeitgeber.  
+ 
+Daneben können wir Daten von weiteren Dritten (z. B. Stellenvermittler, Arbeitsagenturen) erhalten 
+haben.  
+ 
+ 
+ 
+ 5 Für welche Zwecke verarbeiten wir Ihre personenbezogenen Daten und auf welcher 
+Rechtsgrundlage?  
+ 
+Wir verarbei ten Ihre personenbezogenen Daten insbesondere unter Beachtung der  
+Datenschutz -Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) sowie aller 
+weiteren maßgeblichen Gesetze. Daneben können auch Kollektivvereinbarungen (Konzern - , Gesamt -, 
+UBBD - und UKBR - sowie Betriebsvereinbarungen sowie tarifvertragliche Regelungen) als 
+datenschutzrechtliche Erlaubnisvorschrift herangezogen werden.  
+ 
+Die in Ziffer 3 genannten personenbezogenen Daten werden zu den nachfolgend genannten Zwecken 
+an weitere Systeme  übertragen und in SAP Success Factors verarbeitet:  
+ 
+5.1 Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 Abs. 1 S. 1 BDSG 
+i.V.m. Art 88 DSGVO, bzw. Art. 6 Abs. 1 lit. b DSGVO)  
+ 
+Personenbezogene Daten von Beschäftigten dürfen verarbeitet werden, wenn es für die Begründung, 
+Durchführung und/oder Beendigung des Beschäftigungsverhältnisses erforderlich ist.  
+ 
+Wir verarbeiten Ihre Daten in SAP Success Factors u.a. zu folgenden Zwecken:  
+ 
+ Organisation der Geschäftsabläufe, Personalplanung  
+ Zuweisu ng von Aufgaben und Tätigkeiten  
+ Weiterbildung und Förderung  
+ Abwicklung des Arbeitsverhältnisses  
+ Als Schnittstelle für andere Systeme, die zur Abwicklung des Arbeitsverhältnisses  erforderlich 
+sind 
+ 
+5.2 Zur Erfüllung rechtlicher Verpflichtungen (Art.6 Abs.1 c DSGVO) oder im öffentlichen 
+Interesse (Art.6 Abs. 1 lit. e DSGVO)  
+ 
+Als Unternehmen unterliegen wir verschiedenen rechtlichen Verpflichtungen. Zur Erfüllung dieser 
+Verpflichtungen kann eine Verarb eitung von personenbezogenen Daten erforderlich sein.  
+ 
+ Zur Wahrung gesetzlicher Aufbewahrungsfristen, insbesondere nach der 
+Abgabenordnung  (AO) und dem Handelsgesetzbuch (HGB)  
+ Zur Wahrung von Meldepflichten des Arbeitgebers (z.B. §§ 2, 3 NachwG)  
+ Zur Wahrun g gesetzlicher Anforderungen, insbesondere nach dem Arbeitszeitgesetz  (ArbZG) 
+und Arbeitsschutzgesetz (ArbSchG)  
+ Zur Sicherstellung, dass ausschließlich sicherheitsüberprüfte Personen Zugang zu  eingestuften 
+Verschlusssachen erhalten (SÜG)  
+ Zur Wahrung des Be triebsverfassungsgesetzes  
+ Zum Nachweis ordnungsgemäßer Herstellung und Inverkehrbringung von Produkten  gemäß 
+Produkthaftungsgesetz (ProdHaftG)  
+ Zur Durchführung von Preisprüfungen bei öffentlichen Aufträgen  
+ Datenabgleich mit EU -Anti-Terrorlisten nach Verord nungen (EG) Nr. 2580/2001 und  881/2002 
+zum Zwecke der Terrorismusbekämpfung und/ oder im Rahmen der 
+AEOZertifizierung  (Authorised Economic Operator)  
+ Aufdeckung von Straftaten  
+ 
+Bis diese rechtlichen Verpflichtungen erfüllt sind, werden grundsätzlich auch di e Daten in SAP Success 
+Factors vorgehalten.  
+ 
+5.3 Aufgrund des berechtigten Interesses der verantwortlichen Stelle  
+(Art. 6 Abs.1 lit. f DSGVO)  
+ 
+In bestimmten Fällen verarbeitet SAP Success Factors Ihre Daten und übermittelt Ihre Daten an 
+Folgesysteme zu Wah rung eines berechtigten Interesses von uns oder Dritten.  
+ 
+Dies erfolgt u.a. in folgenden Fällen:  
+  Konzernweites Verzeichnis von Kontaktdaten  
+ Im Rahmen der Zutrittskontrolle zur Wahrung des Hausrechts und der Gebäudesicherheit  
+ Gewährleistung der IT -Sicherhe it 
+ Betriebliche Altersvorsorge  
+ Schutz von Unternehmens - und Geschäftsgeheimnissen  
+ Schutz von eingestuften Dokumenten/Daten  
+ Arbeitsteilige Organisation der Arbeit (Unterscheidung disziplinarische und fachliche  Führung) 
+im Rahmen der Matrixorganisation der Rheinmetall Group  
+ 
+5.4 Datenverarbeitungen aufgrund einer Betriebsvereinbarung  
+ 
+Eine Betriebsvereinbarung kann ebenfalls Rechtsgrundlage für die Datenverarbeitung im 
+Beschäftigungsverhältnis sein. Eine Übersicht unserer Betriebsvereinbarungen finden Sie im  Intranet 
+(Gate2) oder bei der für Sie zuständigen Personalabteilung.  
+ 
+5.5 Verarbeitung Ihres Profilbilds aufgrund  Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 lit. a 
+DSGVO)  
+ 
+Sie haben die Möglichkeit, in Ihrem Profil ein Profilbild eigenständig hochzula den. Dieses Profilbild 
+wird sodann von allen Beschäftigten der Rheinmetall Group (weltweit) innerhalb des Systems 
+HR4You einsehbar sein, um die Kommunikation innerhalb des Konzerns zu fördern.  
+Das Hochladen eines Profilbilds ist völlig freiwillig und erfol gt auf Basis Ihrer Einwilligung gemäß Art. 6 
+Abs. 1 lit. a DSGVO.  
+Durch das aktive Hochladen eines Profilbilds erteilen Sie konkludent Ihre Einwilligung in die 
+Verarbeitung Ihres Profilbilds.  
+Widerruf: Sie können Ihre Einwilligung jederzeit mit Wirkung für  die Zukunft widerrufen, indem 
+Sie einfach Ihr Profilbild aus Ihrem Profil wieder entfernen. Hierzu Ihr Profil aufrufen, auf 
+„Profilbild bearbeiten“ gehen und dort auf „Bild löschen“ klicken.  
+Im Übrigen können Sie sich auch an die unter 10.6 genannten Ansp rechpartner zur 
+Wahrnehmung Ihrer Rechte wenden.  
+Hinweis: Bitte laden Sie nur Ihre eigenen Profilbilder hoch (keine anderen Personen dürfen erkennbar 
+sein). Bitte beachten Sie außerdem etwaige Urheberrechte.  
+ 
+ 
+6 An wen werden Ihre Daten weitergegeben?  
+ 
+Ihre Daten werden hauptsächlich durch unsere Personalabteilung und der jeweils für den 
+Verarbeitungszweck zuständigen Abteilung verarbeitet. Teilweise sind jedoch auch andere interne und 
+externe Stellen an der Verarbeitung Ihrer Daten beteiligt.  
+Innerhalb der Rheinmetall Group werden Ihre Daten an bestimmte Konzerngesellschaften übermittelt, 
+wenn diese Datenverarbeitungsaufgaben für die in der Gruppe verbundenen Unternehmen zentral 
+wahrnehmen, wie beispielsweise bei Bereitstellung von gemeinsam genutzten un d zentral verwalteten 
+IT-Anwendungen und -systemen.  
+Des Weiteren werden Ihre Daten im Rahmen der Matrixorganisation auch von anderen Unternehmen 
+der Rheinmetall Group (z. B. Rheinmetall Waffe Munition GmbH, Rheinmetall Landsysteme GmbH, 
+Pierburg GmbH, KS K olbenschmidt GmbH u.a.) verarbeitet, soweit dies im Rahmen einer 
+arbeitsteiligen Organisation der Konzern - und /oder Tochtergesellschaften erforderlich ist.  
+Entsprechendes gilt insbesondere dann, wenn Ihr fachlicher Vorgesetzter bei einer anderen 
+Gesellsch aft der Rheinmetall Group angestellt ist als Sie.  
+ 
+Zudem speist SAP Success Factors das konzernweite Adressbuch.  
+ 
+Daneben bedienen wir uns zur Erfüllung unserer vertraglichen und gesetzlichen Pflichten zum Teil 
+unterschiedlicher Dienstleister (Auftragsvera rbeiter gem. 28 DSGVO).  
+Dies sind unter anderem Unternehmen der folgenden Kategorien  
+ IT-Dienstleistungen  
+ Softwareentwicklung  
+ Beratung und Consulting  
+Weitere Übermittlungen finden im Rahmen der Nutzung von SAP Success Factors nicht statt.  
+  
+7 Werden Ihre Daten an Länder außerhalb der Europäischen Union  
+(sog. Drittländer) übermittelt?  
+ 
+Grundsätzlich werden Ihre personenbezogenen Daten innerhalb der EU in Unternehmen der 
+Rheinmetall Group verarbeitet.  
+ 
+Das konzernweite Adressbuch wird allen Unternehmen der R heinmetall Group weltweit zur Verfügung 
+gestellt.  
+ 
+Soweit es Ihm Rahmen Ihrer Tätigkeit notwendig wird, dass Daten an ein Unternehmen außerhalb der 
+Europäischen Union (und des Europäischen Wirtschaftsraums „EWR“) übermittelt werden müssen, 
+treffen wir beso ndere Maßnahmen, um sicherzustellen, dass Ihre personenbezogenen Daten in den 
+Drittländern ebenso sicher wie innerhalb der Europäischen Union verarbeitet werden.  
+ 
+ 
+8 Wie lange werden Ihre Daten gespeichert?  
+ 
+Soweit erforderlich, speichern wir Ihre Daten gr undsätzlich für die Dauer des  
+Beschäftigungsverhältnisses bzw. Ihrer Tätigkeit für die Unternehmen der Rheinmetall Group.  
+ 
+Sollte eine Speicherung der Daten, für die Erfüllung vertraglicher oder gesetzlicher Pflichten oder weil 
+der konkrete Verarbeitungszw eck entfallen ist, nicht mehr erforderlich sein, werden Ihre Daten gelöscht 
+bzw. für statistische Zwecke anonymisiert, es sei denn, deren Weiterverarbeitung ist aufgrund 
+gesetzlicher oder vertraglicher Aufbewahrungsfristen weiterhin erforderlich.  
+ 
+Dies kan n u.a. in folgenden Fällen angenommen werden:  
+ 
+ Erfüllung handels - und steuerrechtlicher Aufbewahrungspflichten. Dies sind 
+insbesondere  Aufbewahrungsfristen aus dem Handelsgesetzbuch (HGB) sowie der 
+Abgabenordnung  (AO).  
+ Erfüllung besonderer Aufbewahrungspfl ichten aus dem Betriebsrentengesetz (BetrAVG)  bei 
+erworbener Anwartschaft im Rahmen der betrieblichen Altersvorsorge.  
+ Nachweis der Einhaltung arbeitsrechtlicher Vorschriften. Dies sind insbesondere die  Erfüllung 
+der Aufzeichnungspflichten aus dem Arbeitsze itgesetz (ArbZG), dem  Mindestlohngesetz 
+(MiLoG) und/oder dem Teilzeit -und Befristungsgesetz (TzBfG).  
+ Erfüllung von Anforderungen aus den verschiedenen Sozialgesetzbüchern (SGB I – XII), 
+wie beispielsweise zum Nachweis von geleisteten Beitragszahlung 
+gegenü ber Sozialversicherungsträgern.  
+ Auskünfte bei öffentlichen Aufträgen, die der Preisprüfung unterliegen.  
+ Erhaltung von Beweismitteln im Rahmen der gesetzlichen Verjährungsvorschriften. Nach den 
+Verjährungsvorschriften des Bürgerlichen Gesetzbuches (BGB) kön nen diese 
+Verjährungsfristen in manchen Fällen bis zu 30 Jahre betragen, die regelmäßige 
+Verjährungsfrist beträgt drei Jahre.  
+ 
+ 
+9 Inwieweit finden automatisierte Einzelfallentscheidungen oder Maßnahmen zum Profiling 
+statt?  
+ 
+Wir benutzen keine automatisiert en Verarbeitungsprozesse zur Herbeiführung einer Entscheidung über 
+die Begründung, Durchführung oder Beendigung eines  
+Beschäftigungsverhältnisses.  
+ 
+ 
+10 Welche Rechte stehen Ihnen zu im Zusammenhang mit der Verarbeitung Ihrer Daten?  
+ 
+Jede betroffene Person hat das Recht auf Auskunft nach Art. 15 DSGVO, das Recht auf Berichtigung 
+nach Art. 16 DSGVO, das Recht auf Löschung nach Art. 17 DSGVO, das Recht auf Einschränkung der 
+Verarbeitung nach Art. 18 DSGVO, das Recht auf Widerspruch aus Art. 21 DSGVO sowie das Recht auf 
+Datenübertragbarkeit aus Art. 20 DSGVO. Beim Auskunftsrecht und beim Löschungsrecht gelten die 
+Einschränkungen nach §§ 34 und 35 BDSG.   
+10.1 Auskunftsrecht  
+ 
+Sie können Auskunft darüber verlangen, ob wir personenbezogene Daten über Sie gespeichert  haben. 
+Wenn Sie es wünschen, teilen wir Ihnen mit, um welche Daten es sich handelt, für welche Zwecke die 
+Daten verarbeitet werden, wem diese Daten offengelegt werden, wie lange die Daten gespeichert 
+werden und welche weiteren Rechte Ihnen in Bezug auf di ese Daten zustehen.  
+ 
+10.2 Widerruf der Einwilligung  
+ 
+Eine von Ihnen erteilte Einwilligung in die Verarbeitung personenbezogener Daten können Sie jederzeit 
+widerrufen. Bitte beachten Sie, dass der Widerruf nur für die Zukunft wirkt.  
+ 
+10.3 Widerspruchsrecht  
+ 
+Welches Recht haben Sie im Falle einer Datenverarbeitung aufgrund eines berechtigten 
+Interesses?  
+ 
+Sie haben gem. Art. 21 Abs. 1 DSGVO das Recht, aus Gründen, die sich aus Ihrer besonderen 
+Situation ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener Daten, die 
+aufgrund von Art. 6 Abs. 1 e DSGVO (Datenverarbeitung im öffentlichen Interesse) oder aufgrund Art. 6 
+Abs. 1 f DSGVO (Datenverarbeitung zur Wahrung eines berechtigten Interesses)  
+erfolgt, Widerspruch einzulegen Die s gilt auch für ein auf diese Vorschrift gestütztes Profiling.  
+ 
+Im Falle Ihres Widerspruchs verarbeiten wir Ihre personenbezogenen Daten nicht mehr, es sei denn, 
+wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen , 
+Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder 
+Abwehr von Rechtsansprüchen.  
+ 
+10.4 Weitere Rechte  
+ 
+Darüber hinaus haben Sie das Recht auf Berichtigung falscher Daten oder auf Löschung Ihrer Daten. 
+Wenn kein  Grund für die weitere Speicherung besteht, werden wir Ihre Daten löschen, ansonsten die 
+Verarbeitung einschränken. Sie können auch verlangen, dass wir alle personenbezogenen Daten, die 
+Sie uns bereitgestellt haben, in einem strukturierten, gängigen und ma schinenlesbaren Format 
+entweder Ihnen oder einer Person oder einem Unternehmen Ihrer Wahl zur Verfügung stellen.  
+ 
+10.5 Recht auf Beschwerde bei einer Aufsichtsbehörde  
+ 
+Darüber hinaus besteht ein Beschwerderecht bei der zuständigen Datenschutzaufsichtsbehör de (Art. 
+77 DSGVO i.V.m. § 19 BDSG), wenn Sie der Ansicht sind, dass eine von uns durchgeführte 
+Datenverarbeitung gegen datenschutzrechtliche Regelungen verstößt.  
+Eine Auflistung der für den nicht -öffentlichen Bereich zuständigen Aufsichtsbörden kann auf d er 
+Webseite des Bundesbeauftragten für Datenschutz und Informationssicherheit aufgerufen werden.  
+ 
+10.6 Wahrnehmung Ihrer Rechte  
+ 
+Um Ihre Rechte wahrzunehmen, kö nnen Sie sich direkt an I hren Arbeitgeber (Verantwortliche), an das 
+Sucess Factors -Supportteam ( sf.support@rheinmetall.com) oder an die Personalabteilung I hres 
+Arbeitgebers wenden. Wir werden Ihre Anfragen umgehend sowie gemäß den gesetzlichen Vorgaben 
+bearbeiten und Ihnen mitteilen, welche Maßnahmen wir  
+ergriffen haben.  
+ 
+ 
+11 Besteht eine Pflicht zur  Bereitstellung Ihrer personenbezogenen Daten?  
+ 
+Zur Durchführung eines Beschäftigungsverhältnisses oder einer Tätigkeit bei einem Unternehmen der 
+Rheinmetall Group müssen Sie uns diejenigen personenbezogenen Daten bereitstellen, die zur 
+Durchführung des Beschäftigungsverhältnisses oder des Vertrages erforderlich sind oder die wir 
+aufgrund gesetzlicher Vorgaben zwingend erheben müssen.  
+Sollten Sie uns diese Daten nicht bereitstellen, dann ist für uns die Durchführung des 
+Beschäftigungsverhältnisses bzw. di e Vertragserfüllung nicht möglich.   
+ 
+12 Änderungen dieser Informationen  
+ 
+Sollte sich der Zweck oder die Art und Weise der Verarbeitung Ihrer personenbezogenen Daten 
+wesentlich ändern, so werden wir diese Informationen rechtzeitig aktualisieren und Sie rech tzeitig über 
+die Änderungen informieren.  

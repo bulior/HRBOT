@@ -1,0 +1,306 @@
+ 
+1 
+ 
+FAQ HR4you 
+Inhaltsverzeichnis 
+ 
+1 HR4you allgemein  .................................................................................................................................2 
+2 Personalstammdaten ............................................................................................................................2 
+3 Lernbereich allgemein  ..........................................................................................................................3 
+4 Schulungsangebot  .................................................................................................................................3  
+5 Anmeldeprozess  ....................................................................................................................................4  
+6 Genehmigungsprozess  ..........................................................................................................................4  
+7 Pflichtschulungen  ..................................................................................................................................4  
+8 Externe Schulungsanfrage  ....................................................................................................................5  
+9 Lernhistorie  ...........................................................................................................................................6  
+10 Zertifikate  ............................................................................................................................................6  
+11 Surveys / Fragebögen  .........................................................................................................................7  
+12 Mein Team  ..........................................................................................................................................7  
+13 Stellvertreter  .......................................................................................................................................7  
+14 Bedarfsermittlung  ...............................................................................................................................8  
+15 Datenmigration  ...................................................................................................................................8  
+   
+2 
+ 
+1. HR4you allgemein 
+1.1. Sind Success Factor und HR4you ein System? 
+Hinter HR4you verbirgt sich das Modul Employee Central von SAP Success Factors (SF). 
+1.2. Wie meldet man sich in HR4you an oder wie erreiche ich HR4You? 
+Der Log-In in HR4you kann über das Gate² (Anwendung / HR Anwendungen / HR4you / Schulung) 
+oder www.rheinmetall.com/hr4you erfolgen. 
+1.3. Wie lautet die Firmenkennung? 
+Die Firmenkennung lautet „rheinmetalP“ 
+1.4. Die Sprache ist auf Englisch eingestellt. Wie stelle ich auf Deutsch um?   
+Klicken Sie recht oben auf den Kreis mit Ihren Initialen. Wählen Sie im Navigationsmenü 
+‚Settings‘ aus. Im sich öffnenden Feld wählen Sie links ‚Change Language‘ aus. Wählen Sie 
+‚Deutsch‘ aus und bestätigen Sie mit ‚Switch‘. 
+ 
+1.5. Wen kann ich in HR4you sehen?  
+Jeder an SAP angeschlossene Rheinmetall Mitarbeitende hat ein eigenes Profil in HR4you. Sie 
+haben die Möglichkeit, über HR4you nach allen Mitarbeitenden des Konzerns weltweit zu suchen. 
+Die Suche nach Mitarbeitenden erfolgt auf der Startseite über der Suchleiste mit dem 
+Lupensymbol. 
+1.6. Welche Mitarbeitenden haben Zugriff auf HR4you?  
+Grundsätzlich haben alle an SAP angeschlossenen Mitarbeitenden mit einer eMail Adresse 
+Zugriff auf HR4you.  
+1.7. Kann man im System die Sprachen einstellen/umstellen? 
+Einstellungen zu Systemsprache, E-Mail Präferenzen etc. können über das Profilbild auf der 
+Startseite oder die Initialen vorgenommen werden. 
+1.8. Auf der HR4you Startseite wird unter Aufgaben "Mein Team - Erinnern Sie ein Teammitglied 
+an die...." angezeigt. Diese Info bleibt bestehen, auch wenn der Vorgesetzte den betroffenen 
+Mitarbeiter per E-Mail darüber informiert hat. Wird die Anzeige erst deaktiviert / auf erledigt 
+gesetzt, wenn der betroffene Mitarbeiter die Aufgabe erledigt hat?  
+Das ist korrekt, die Info bleibt dort solange bestehen, bis der Mitarbeitende das Training 
+abgeschlossen hat. 
+ 
+2. Personalstammdaten 
+2.1. Wer pflegt die Personalstammdaten in HR4you? An wen kann ich mich wenden, wenn 
+Daten nicht korrekt sind oder etwas fehlt?  
+Die Personalstammdatenpflege läuft über die operativen Personalabteilungen. 
+Aufgaben und Ansprechpartner der operativen Personalabteilung finden Sie hier. 
+2.2. Wer pflegt die Personalstammdaten im Ausland? 
+Für die Pflege der Daten ist die jeweils lokale Personalabteilung verantwortlich. 
+2.3. Sind die Personaldaten automatisch gepflegt oder müssen die Daten selber gepflegt 
+werden? 
+Jeder an SAP angeschlossene Rheinmetall Mitarbeiter hat ein eigenes Profil in HR4you, das 
+teilweise persönlich gepflegt werden kann. Unter „Meine Personaldaten“ erreichen Sie Ihre 
+persönlichen Informationen und sehen, welche Daten für Sie veränderbar sind.    
+3 
+ 
+2.4. Frage zu persönlichem Profil: An wen muss man sich wenden, wenn man Einstellungen in 
+HR4you nicht selbst korrigieren kann (z.B. primäre Mail)? 
+Wenden Sie sich bitte an die die operative Personalabteilung, wenn die Informationen in Ihrem 
+Profil nicht korrekt sind und Sie keine eigenen Korrekturen vornehmen können. Aufgaben und 
+Ansprechpartner der operativen Personalabteilung finden Sie hier. 
+2.5. Profilstatus: Der Mitarbeitende hat sein Profil gepflegt, jedoch wird ihm ein Status von 0% 
+angezeigt.  
+Der Status bezieht sich derzeit nur auf das Hinzufügen eines Bildes. 
+ 
+2.6. Wer pflegt das Organigramm? Wie/Wo kann man Fehler im Organigramm oder in der Job-
+Beschreibung melden oder ändern?  
+Die Pflege der Organigramme läuft über die operativen Personalabteilungen.  
+Aufgaben und Ansprechpartner der operativen Personalabteilung finden Sie hier. 
+ 
+3. Lernbereich allgemein 
+3.1. Kann mein Chef alle meine Bewegungen im Lernbereich sehen? 
+Ihr(e) disziplinarische(r) Vorgesetzte(r) erhält eine vom System automatisch generierte 
+Benachrichtigung, wenn Sie sich zum Beispiel zu einer internen oder externen 
+Weiterbildungsmaßnahme angemeldet haben, da er diese übers System genehmigen muss. 
+Ebenfalls kann Ihr(e) disziplinarische(r) Vorgesetzte(r) im System den Durchführungsstatus Ihrer 
+Schulungen überprüfen. 
+ 
+4. Schulungsangebot 
+4.1. Kann man sich über HR4you auch für Academy Trainings anmelden?  
+In der Bibliothek haben Sie die Möglichkeit, sich alle Schulungsangebote des internen 
+Weiterbildungskatalogs, des RH Academy Angebots, sowie eLearnings anzuschauen und sich 
+dazu anzumelden. 
+4.2. Sollen/Können die ausländischen Kollegen auf all unsere Schulungen zugreifen? 
+Für wen die jeweiligen Schulungen sichtbar sind und wer an den Schulungen teilnehmen kann, 
+entscheidet der Trainer bzw. Inhaltverantwortliche. 
+4.3. Können aufgezeichnete Trainings (Videos) in HR4You zur Verfügung gestellt werden, 
+welches Format wird benötigt? 
+Ja, aufgezeichnete Trainings (Videos) können zur Verfügung gestellt werden. Bitte wenden Sie sich 
+an die Personalentwicklung.  Aufgaben und Ansprechpartner der Personalentwicklung finden Sie 
+hier. 
+4.4. Wie sieht es mit Kosten aus? 
+Bei kostenpflichtigen Schulungen wird die Höhe der Kosten in der Kursbeschreibung angezeigt. 
+4.5. Können wiederkehrende fachbereichsspezifische Pflichtschulungen in HR4you abgebildet 
+werden? 
+Ja, das ist möglich. Bitte wenden Sie sich an die Personalentwicklung. 
+Aufgaben und Ansprechpartner der Personalentwicklung finden Sie hier. 
+   
+4 
+ 
+ 
+5. Anmeldeprozess 
+5.1. Werden mit Anmeldung Kalendereinträge erzeugt? 
+Ja, bei Anmeldung erhalten Sie eine Benachrichtigung per Mail und haben die Möglichkeit, einen 
+Kalendereintrag zu erzeugen. 
+5.2. Brauchen eLearnings eine Registrierung? 
+Für eLearnings ist keine Registrierung notwendig, sie können direkt gestartet werden. 
+5.3. Kann ich einen Mitarbeitenden, der bei der RITS / AG einen Vertrag hat, anmelden / 
+Genehmigungen erteilen? 
+Als disziplinarische(r) Vorgesetzte(r) können Sie alle Ihnen zugeordneten Mitarbeitenden zu 
+Schulungen anmelden und Genehmigungen erteilen. 
+5.4. Wie kann man sich an Schulungen anmelden, wenn man keinen digitalen Zugriff hat?  
+Für Mitarbeiter ohne digitalen Zugriff / ohne eMail Adresse besteht die Möglichkeit, dass die 
+Führungskraft die Anmeldung zu Schulungen vornimmt. 
+ 
+6. Genehmigungsprozess 
+6.1. Gibt es auch die Möglichkeit, Anträge abzulehnen? 
+Ja, Anträge können vom disziplinarischen Vorgesetzten und der Personalentwicklung abgelehnt 
+werden. 
+6.2. Gibt es einen Genehmigungsprozess für die eLearnings von SkillSoft?  
+Nein, für die eLearnings von SkillSoft ist keine Genehmigung notwendig. 
+ 
+7. Pflichtschulungen 
+7.1. Wer legt fest, was eine Pflichtschulung ist? 
+Pflichtschulungen sind gesetzlich, vom Unternehmen oder vom Kunden vorgeschriebene 
+Schulungen. 
+7.2. Wo kann ich den Status meiner eigenen Pflichtschulungen sehen? 
+Der Status der Pflichtschulungen sehen Sie in HR4you im Lernbereich unter ‚Verpflichtende 
+Schulungen‘. 
+7.3. Gibt es für Pflichtschulungen eine Erinnerungsfunktion? 
+Auf der Startseite von HR4you und im Lernbereich unter ‚Meine Schulungszuweisungen‘ werden 
+bald fällige Pflichtschulungen mit dem dazugehörigen Fälligkeitsdatum angezeigt. Zusätzlich 
+erhalten Sie 30 Tage und 15 Tage vor dem Fälligkeitsdatum eine Erinnerung per Mail. 
+7.4. Werden bei Pflichtschulungen automatisch die Teilnahmebestätigungen gesichert oder 
+müssen diese separat durch den Teilnehmer hochgeladen werden? 
+Bei internen Pflichtschulungen, die als eLearning durchgeführt oder als Inhouse-Schulung 
+angeboten wurden, sind die vom System generierten Zertifikate im Bereich ‚Lernhistorie‘ zu 
+finden und können über das Druckersymbol ausgedruckt oder abgespeichert werden. Eine 
+Zusendung dieser Zertifikate an die lokale Personalentwicklung ist nicht notwendig. 
+Zusätzlich von externen Trainern verteilte Zertifikate verbleiben im jeweiligen Fachbereich. 
+Bei Schulungen, die extern besucht wurden und in HR4you als ‚externe Schulungsanfrage‘ 
+angelegt wurden, laden Sie eine Scanversion Ihres Zertifikats bitte in der dazugehörigen Anfrage  
+5 
+ 
+als Dateianhang hoch. Das Original verbleibt im jeweiligen Fachbereich und muss im Falle von 
+Auditierungen vorlegbar sein. 
+7.5. Wie soll man mit nicht korrekt zugewiesenen Pflichtschulungen umgehen? Soll man diese 
+einfach ignorieren? 
+Bitte informieren Sie die lokale Personalentwicklung im Falle von nicht korrekt zugewiesenen 
+Pflichtschulungen. 
+7.6. Sind die Pflichtschulungen bereinigt worden (versehentlich zugeordnete Pflichtschulungen 
+in Empower)? 
+In HR4you wurden und werden die Pflichtschulungen neu zugeordnet. Versehentlich in Empower 
+zugeordnete Pflichtschulungen werden somit bereinigt. 
+ 
+8. Externe Schulungsanfrage 
+8.1. Wie kann ich eine externe Schulung beantragen? 
+Wählen Sie im Lernbereich den rechts angezeigten Reiter ‚externe Schulungsanfrage‘. 
+Klicken Sie nun auf das Stiftsymbol um einen Antrag für eine externe Schulung zu erstellen.  
+Klicken Sie auf den Pfeil neben ‚Externe Anfrage‘ um die Details zu Ihrer Schulungsanfrage 
+ausfüllen zu können. Füllen Sie die Anfrage genau. Speichern Sie Ihre Anfrage.  Sie haben die 
+Möglichkeit mehrere externe Anfragen mit einmal einzureichen, klicken Sie hierfür unten links 
+auf externe Anfrage hinzufügen.  
+Nach dem Speichern erscheint ein Feld indem Sie Ihre Anfrage bestätigen müssen um den 
+Vorgang abzuschließen.  Unter dem Reiter „Startseite“, „meine Personaldaten“ erscheint bei den 
+externen Schulungsanfragen ein Uhrensymbol, hier können Sie den Status Ihrer Anfrage einsehen 
+und diese auch zurückziehen.  
+8.2. Was muss ich bei der Buchung externer Schulungen beachten? 
+Die Beantragung der externen Schulung im Lernbereich stellt einen Genehmigungsworkflow dar. 
+Es erfolgt keine automatische Buchung der Schulungen. Für die Buchung der Schulung ist eine 
+BANF einzustellen. Die Schulung, Unterbringung und Anfahrt sind eigenständig zu organisieren. 
+8.3. Kann man externe Anfragen für eine ganze Gruppe stellen? 
+Bitte kontaktieren Sie die lokale Personalentwicklung, sollten Sie Bedarf haben, eine externe 
+Schulung für eine Gruppe zu organisieren. Wir unterstützen Sie bei der Organisation der Schulung 
+vor Ort und Dokumentation in HR4you. 
+8.4. Wie kann ich externe Schulungsanfragen für Mitarbeitende ohne PC Zugang einstellen? 
+Gehen Sie auf der Startseite von HR4you auf das Profil des Mitarbeitenden. Dort können Sie das 
+Feld ‚externe Schulungen‘ auswählen und wie gewohnt den Schulungsantrag eingeben. 
+Bitte beachten Sie: Sie selbst als disziplinarische(r) Vorgesetzte(r) müssen diese Anfrage nicht 
+mehr bestätigen und die Anfrage wird direkt an die lokale Personalentwicklung weitergeleitet. 
+Sobald diese genehmigt ist, erhalten Sie eine Benachrichtigung vom System. 
+8.5. Müssen die Academy-Schulungen unter externe Schulungsanfragen eingegeben werden? 
+Nein, Schulungen der Rheinmetall Academy zählen zu internen Schulungen und sind in HR4you 
+bereits zu finden. Bitte nutzen Sie dazu die Suchfunktion auf der Startseite des Lernbereichs oder 
+in der Bibliothek.  
+6 
+ 
+8.6. Müssen alle (in- oder externe) Schulungen vom User abgeschlossen werden? 
+Interne Schulungen werden vom jeweiligen Administrator abgeschlossen. Nur externe Schulungen 
+müssen vom User selber abgeschlossen werden, indem der Status auf ‚Completed‘ und das 
+Zertifikat als Dateianhang hochgeladen wird.   
+8.7. Wird bei der externen Trainingsanfrage direkt eine BANF ausgelöst? 
+Nein, es gibt keine Verknüpfung zwischen HR4you und SAP SRM, d.h. bei Eingabe einer externen 
+Schulungsanfrage wird keine BANF ausgelöst. 
+8.8. Ist geplant, dass SAP SRM mit dem System verknüpft wird? 
+Bisher sind uns keine Pläne zur Verknüpfung von HR4you und SAP SRM bekannt. 
+8.9. Wie verhält es sich bei Schulungen / externen Veranstaltungen, für die es keine 
+Teilnahmezertifikate gibt? 
+Sollten Sie für eine externe Schulung / Veranstaltung kein Zertifikat erhalten haben, so laden Sie 
+bitte einen anderen Nachweis wie z.B. eine Anmeldebestätigung, Einladung o.ä. in HR4you als 
+Anhang hoch. 
+8.10. Können bereits abgeschlossene Qualifizierungsmaßnahmen (extern) nachgetragen 
+werden? 
+Ja, auch bereits abgeschlossene Qualifizierungsmaßnahmen können im Bereich ‚Externe 
+Schulungsanfrage‘ nachgetragen werden. Bitte denken Sie daran, den Status auf ‚Completed‘ zu 
+setzen und das Zertifikat als Dateianhang hoch zu laden.   
+ 
+9. Lernhistorie 
+9.1. Wie kann ich in der Lernhistorie fehlende Schulungen nachtragen? 
+Externe Schulungen können im Bereich ‚Externe Schulungsanfrage‘ nachgetragen werden. Bitte 
+denken Sie daran, des Status auf ‚Completed‘ zu setzen und das Zertifikat als Dateianhang hoch zu 
+laden.  
+Sollten interne Schulungen in Ihrer Lernhistorie fehlen, kontaktieren Sie bitte Ihre lokale 
+Personalentwicklung. 
+9.2. Sind die durchgeführten Schulungen bei der Academy auch im Lernplan zu finden sein. 
+Alle bisher durchgeführten Schulungen, die in Empower dokumentiert wurden, werden in der 
+Lernhistorie zu finden sein. 
+ 
+10. Zertifikate 
+10.1. Müssen auch Teilnahmebescheinigungen für interne Schulungen hochgeladen werden? 
+Nein, für interne Schulungen werden automatisch vom System Zertifikate generiert, die im 
+Bereich ‚Lernhistorie‘ zu finden sind und über das Druckersymbol ausgedruckt oder 
+abgespeichert werden können. 
+10.2. Was macht man, wenn es für eine externe Veranstaltung (z.B. Vortrag) kein Zertifikat 
+gibt?  
+Sollten Sie für eine externe Schulung / Veranstaltung kein Zertifikat erhalten haben, so laden Sie 
+bitte einen anderen Nachweis wie z.B. eine Anmeldebestätigung, Einladung o.ä. in HR4you als 
+Anhang hoch.  
+7 
+ 
+ 
+11. Surveys / Fragebögen 
+11.1. Gibt es Wirksamkeitsprüfungen im System? 
+Ja, für alle internen Schulungen (Ausnahme sind Pflichtschulungen) der Division Power Systems 
+wird 3 Monate nach Abschluss der Schulung ein Fragebogen zur Wirksamkeit an den Teilnehmer 
+und die jeweilige Führungskraft vom System verschickt. 
+11.2. Wird eine Wirksamkeitsprüfung für Pflichtschulungen geschickt? 
+Nein, für Pflichtschulungen wird kein Fragebogen zur Wirksamkeit vom System verschickt. 
+ 
+12. Mein Team 
+12.1. Kann ich als (Haupt-)Abteilungsleiter nur meine Direct Reports sehen oder alle 
+Mitarbeitenden aus meiner Abteilung?  
+Als (Haupt-)Abteilungsleiter können Sie alle Mitarbeitenden aus Ihrer Abteilung sehen. 
+12.2. Werden auch fachlich geführte Mitarbeitende angezeigt oder nur disziplinarische geführte 
+Mitarbeitende > Schulungshistorie, Zuweisungen etc.? 
+Im Lernbereich werden nur disziplinarisch  geführte Mitarbeitende angezeigt.  
+12.3. Können wir irgendwo sehen wie der Durchführungsstatus der Schulungen meiner 
+Mitarbeitenden aussieht? 
+Als disziplinarische(r) Vorgesetzte(r) können Sie den Durchführungsstatus der Schulungen Ihrer 
+Mitarbeitenden im Bereich ‚Mein Team‘ sehen. 
+12.4. Kann ich unter ‚Mein Team‘ den Status der Pflichtschulungen benutzerfreundlich sehen 
+oder ist es ähnlich kompliziert wie in Empower? 
+Unter ‚Mein Team‘ haben Sie die Möglichkeit, den Status der Pflichtschulungen für jeden 
+einzelnen Ihrer Mitarbeitenden mit dem dazugehörigen Fälligkeitsdatum benutzerfreundlich zu 
+sehen. 
+12.5. Unter ‚Mein Team‘ steht bei einem Mitarbeitenden ein gelbes Ausrufezeichen mit der Info 
+"unvollständige Aktivität" ohne das auf den ersten Blick klar ist, was unvollständig ist.  
+Sobald ein Mitarbeitender ein Pflichttraining (wieder) absolvieren muss erscheint dieses gelbe 
+Ausrufezeichen als Info darüber für den/die disziplinarische(r) Vorgesetzte(r). 
+12.6. Habe ich Zugriff auf die Zertifikate meines Teams? 
+Nur der jeweilige User hat Zugriff auf die vom System generierten Zertifikate. 
+ 
+13. Stellvertreter 
+13.1. Sind die Vertreter in HR4you vorhinterlegt?  
+Stellvertreter im Lernbereich von HR4you sind nicht vorhinterlegt, sondern müssen aktiv 
+ausgewählt werden. 
+13.2. Kann man einen Zeitbereich vorab eingeben (Urlaub) oder muss es immer aktiviert / 
+deaktiviert werden? 
+Ein Stellvertreter muss immer aktiviert / deaktiviert werden.  
+8 
+ 
+ 
+14. Bedarfsermittlung 
+14.1. Schulungsbedarf wird durch Skill Matrix oder Potenzialanalyse ermittelt, gibt es eine 
+Verknüpfung zum Lernbereich? 
+Nach Ermittlung des individuellen Schulungsbedarfs per Skill Matrix hat der Mitarbeitende in 
+Abstimmung mit seinem/seiner disziplinarischen Vorgesetzten die Möglichkeit, sich für die 
+vereinbarten Maßnahmen in HR4you zu registrieren bzw. sie zu seinem Lernplan hinzuzufügen. 
+Die von der Personalentwicklung ausgewerteten konsolidierten Ergebnisse aus den Skill Matrizen 
+gehen in die allgemeine Schulungsplanung ein und werden somit bei der Erstellung des 
+Weiterbildungsprogramms berücksichtigt, das Sie hier und in HR4you finden. 
+ 
+15. Datenmigration 
+15.1. Was ist mit der Lernhistorie aus Empower? 
+Alle bisher durchgeführten Schulungen, die in Empower dokumentiert wurden, werden in der 
+Lernhistorie zu finden sein. 
+15.2. Werden die Daten aus Empower übernommen (Anmeldungen, Historie etc.)? 
+Teilnahmen an bereits stattgefundenen Terminen bzw. eLearnings, Anmeldungen für zukünftige 
+Termine sowie Einträge auf der Warteliste wurden in HR4you übertragen. 
+ 
+15.3. Was passiert mit den offenen Pflichtschulungen? Werden sie aus Empower übernommen? 
+Der Status der Pflichtschulungen mit den dazugehörigen Fälligkeitsdaten wurde aus Empower in 
+HR4you übertragen und ist im Bereich ‚Verpflichtende Schulungen‘ zu sehen. 

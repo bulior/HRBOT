@@ -1,0 +1,56 @@
+
+Eigene persönliche Daten anpassen
+Self Service Rheinmetall AG
+
+Anleitungen:
+
+Wie komme ich zu HR4You, Was ist der Lik zu HR4You ?
+https://performancemanager5.successfactors.eu/login?company=rheinmetalP#/login
+
+
+Wie kann ich meine persönliche Daten anpassen?
+	1.	Login:
+	•	Melden Sie sich im Self-Service-Portal an, indem Sie Ihre Anmeldeinformationen eingeben (Benutzername und Passwort).
+	2.	Navigieren zu den persönlichen Daten:
+	•	Nach dem Login sehen Sie das Hauptmenü des Self-Service-Portals.
+	•	Klicken Sie auf den Menüpunkt „Eigene persönliche Daten“.
+	•	Wählen Sie dann „Persönliche Daten anpassen“ aus.
+	3.	Änderungen vornehmen:
+	•	In der Sektion „Persönliche Daten anpassen“ sehen Sie verschiedene Felder wie Name, Geburtsdatum und Adresse.
+	•	Neben jedem Feld befindet sich ein Stiftsymbol. Klicken Sie auf das Stiftsymbol neben dem Feld, das Sie ändern möchten.
+	•	Geben Sie die neuen Informationen ein. Beispiel: Um die Adresse zu ändern, klicken Sie auf das Stiftsymbol neben dem Adressfeld und geben die neue Adresse ein.
+	4.	Speichern:
+	•	Nachdem Sie alle gewünschten Änderungen vorgenommen haben, überprüfen Sie die eingegebenen Daten sorgfältig.
+	•	Klicken Sie auf den Button „Speichern“, um die Änderungen zu bestätigen und zu speichern.
+
+
+Wie kann ich meine eigene Kontaktdaten anpassen (Büroanschrift)?
+	1.	Login:
+	•	Melden Sie sich im Self-Service-Portal an, indem Sie Ihre Anmeldeinformationen eingeben (Benutzername und Passwort).
+	2.	Navigieren zu den Kontaktdaten:
+	•	Nach dem Login sehen Sie das Hauptmenü des Self-Service-Portals.
+	•	Klicken Sie auf den Menüpunkt „Kontaktdaten“.
+	•	Wählen Sie dann „Büroanschrift anpassen“ aus.
+	3.	Änderungen vornehmen:
+	•	In der Sektion „Büroanschrift anpassen“ sehen Sie ein Feld für die Büroanschrift.
+	•	Neben dem Büroanschriftenfeld befindet sich ein Stiftsymbol. Klicken Sie auf das Stiftsymbol, um das Feld zu bearbeiten.
+	•	Geben Sie die neue Büroanschrift ein und stellen Sie sicher, dass alle erforderlichen Felder korrekt ausgefüllt sind.
+	4.	Speichern:
+	•	Überprüfen Sie die eingegebenen Daten sorgfältig.
+	•	Klicken Sie auf den Button „Speichern“, um die Änderungen zu bestätigen und zu speichern.
+
+
+Wie kann ich meine eigene Telefonnummer anpassen ?
+	1.	Login:
+	•	Melden Sie sich im Self-Service-Portal an, indem Sie Ihre Anmeldeinformationen eingeben (Benutzername und Passwort).
+	2.	Navigieren zu den Kontaktdaten:
+	•	Nach dem Login sehen Sie das Hauptmenü des Self-Service-Portals.
+	•	Klicken Sie auf den Menüpunkt „Kontaktdaten“.
+	•	Wählen Sie dann „Telefonnummer anpassen“ aus.
+	3.	Änderungen vornehmen:
+	•	In der Sektion „Telefonnummer anpassen“ sehen Sie ein Feld für die Telefonnummer.
+	•	Neben dem Telefonnummernfeld befindet sich ein Stiftsymbol. Klicken Sie auf das Stiftsymbol, um das Feld zu bearbeiten.
+	•	Geben Sie die neue Telefonnummer ein und achten Sie darauf, das richtige Format zu verwenden (z.B. +49 für Deutschland).
+	4.	Speichern:
+	•	Überprüfen Sie die eingegebenen Informationen sorgfältig.
+	•	Klicken Sie auf den Button „Speichern“, um die Änderungen zu bestätigen und zu speichern.

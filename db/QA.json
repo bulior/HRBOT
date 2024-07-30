@@ -1,0 +1,463 @@
+[
+    {
+        "date": "2024-07-15 13:34:02.545620",
+        "question": "Was ist HR4You?",
+        "answer": "Ich bin mir nicht sicher, bitte wenden Sie sich an die zust\u00e4ndige Abteilung.",
+        "correctAnswer": false
+    },
+    {
+        "date": "2024-07-15 13:34:16.806176",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die Dokumente geben keine konkreten Informationen dar\u00fcber, welche Daten gespeichert werden. Es wird nur allgemein auf die Aufgaben des Datenschutzbeauftragten hingewiesen, wie die Unterrichtung und Beratung bez\u00fcglich datenschutzrechtlicher Pflichten, die \u00dcberwachung der Einhaltung datenschutzrechtlicher Vorschriften und die Mitwirkung an der Datenschutz-Folgeabsch\u00e4tzung. Daher ist meine Antwort: 'Ich bin mir nicht sicher, bitte wenden Sie sich an die zust\u00e4ndige Abteilung'.",
+        "correctAnswer": true
+    },
+    {
+        "date": "2024-07-15 13:35:13.792197",
+        "question": "Wie kann ich mein Passwort \u00e4ndern ?",
+        "answer": "Ich bin mir nicht sicher, bitte wenden Sie sich an die zust\u00e4ndige Abteilung.",
+        "correctAnswer": false
+    },
+    {
+        "date": "2024-07-15 13:35:26.854282",
+        "question": "Wie kann ich mein Passwort in Hr4YOu \u00e4ndern ?",
+        "answer": "Ich bin mir nicht sicher, bitte wenden Sie sich an die zust\u00e4ndige Abteilung.",
+        "correctAnswer": false
+    },
+    {
+        "date": "2024-07-15 13:38:57.310236",
+        "question": "Wie kann ich mein Passwort \u00e4ndern ?",
+        "answer": "Um Ihr Passwort zu \u00e4ndern, m\u00fcssen Sie in Ihrem Benutzerkonto auf die entsprechenden Einstellungen zugreifen. Bitte \u00fcberpr\u00fcfen Sie die Optionen in Ihrem Profil oder in den Kontoeinstellungen. Wenn Sie weitere Unterst\u00fctzung ben\u00f6tigen, wenden Sie sich bitte an die IT-Abteilung oder den Kundensupport.",
+        "correctAnswer": true
+    },
+    {
+        "date": "2024-07-15 13:43:13.597529",
+        "question": "Welche Abk\u00fcrzungen im Datenschutzdokument findest du ?",
+        "answer": "Im Datenschutzdokument sind die Abk\u00fcrzungen DSFA (Datenschutz-Folgeabsch\u00e4tzung) und DSF A (Datenschutz-Folgenabsch\u00e4tzung) zu finden.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-15 13:43:28.086175",
+        "question": "Was ist DSFA",
+        "answer": "DSFA steht f\u00fcr Datenschutzbeauftragter. Gem\u00e4\u00df den bereitgestellten Dokumenten ist es wichtig, sicherzustellen, dass ein Datenschutzbeauftragter benannt wird, wenn bestimmte Voraussetzungen erf\u00fcllt sind, insbesondere wenn im Unternehmen mindestens zwanzig Personen st\u00e4ndig mit der automatisierten Verarbeitung personenbezogener Daten besch\u00e4ftigt sind. Der Datenschutzbeauftragte muss eine den gesetzlichen Anforderungen entsprechende Stellung haben.",
+        "correctAnswer": true,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-15 13:46:33.161198",
+        "question": "Welche Abk\u00fcrzungen kennst du ?",
+        "answer": "Die Abk\u00fcrzungen, die in den bereitgestellten Dokumenten erw\u00e4hnt werden, sind:\n\n- Datenschutzbeauftragter (DSB)\n- Datenschutz-Folgeabsch\u00e4tzung (DSFA)\n\nDiese Abk\u00fcrzungen beziehen sich auf wichtige Rollen und Verantwortlichkeiten im Zusammenhang mit dem Datenschutz.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-15 13:47:00.719734",
+        "question": "Welche Abk\u00fcrzungen kennst du ?",
+        "answer": "Die Abk\u00fcrzung DSFA steht f\u00fcr Datenschutz-Folgeabsch\u00e4tzung.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-15 14:43:44.612329",
+        "question": "Was kannst du zu Zertifikaten sagen ?",
+        "answer": "Zu Zertifikaten kann ich sagen, dass f\u00fcr interne Schulungen automatisch vom System Zertifikate generiert werden. Teilnahmebescheinigungen m\u00fcssen nicht hochgeladen werden. Externe Schulungen k\u00f6nnen im Bereich 'Externe Schulungsanfrage' nachgetragen werden, wobei der Status auf 'Completed' gesetzt und das Zertifikat als Dateianhang hochgeladen werden muss. Auch bereits abgeschlossene Qualifizierungsma\u00dfnahmen k\u00f6nnen nachgetragen werden, indem das Zertifikat hochgeladen wird.",
+        "correctAnswer": true,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-16 07:38:13.249338",
+        "question": "Wo winde ich HR4You?",
+        "answer": "HR4You kann in der HR4you als Anhang hochgeladen werden.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-16 07:39:27.785524",
+        "question": "Wie erreichen HR4You?",
+        "answer": "HR4You kann erreicht werden, indem die IT-Abteilung alle Datenbank-Systeme nach den personenbezogenen Daten des Antragstellers durchsucht und das Ergebnis der \u00dcberpr\u00fcfung an die Data Privacy Organization zur\u00fcckmeldet. Anschlie\u00dfend sind die notwendigen Ma\u00dfnahmen zur Erf\u00fcllung der Betroffenenanfrage in Abstimmung mit dem Data Privacy Organization oder Datenschutzbeauftragten zu treffen. Die Durchf\u00fchrung bzw. Umsetzung der Ma\u00dfnahmen liegt in der Verantwortung des jeweiligen Fachbereichs.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-16 07:41:52.562380",
+        "question": "Wie erreichen ich HR4You?",
+        "answer": "Sie k\u00f6nnen das HR4You-Supportteam unter sf.support@rheinmetall.com oder die Personalabteilung Ihres Arbeitgebers kontaktieren.",
+        "correctAnswer": true,
+        "user": "benkue"
+    },
+    {
+        "date": "2024-07-16 07:52:16.566009",
+        "question": "Wie kann ich eigene Kontaktdaten anpassen?",
+        "answer": "Um eigene Kontaktdaten anzupassen, k\u00f6nnen Sie sich an das Supportteam (sf.support@rheinmetall.com) oder an die Personalabteilung Ihres Arbeitgebers wenden. Diese werden Ihre Anfrage gem\u00e4\u00df den gesetzlichen Vorgaben bearbeiten und Ihnen mitteilen, welche Ma\u00dfnahmen ergriffen wurden.",
+        "correctAnswer": false,
+        "user": "benkue"
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-24T10:17:46.546100",
+        "question": "Was gibt es beim Datenschutz zu beachten ?",
+        "answer": "Es tut mir leid, aber die bereitgestellten Informationen enthalten keine Details zum Datenschutz. Bitte wenden Sie sich an die zust\u00e4ndige Datenschutzabteilung oder \u00fcberpr\u00fcfen Sie die Datenschutzrichtlinien Ihres Unternehmens f\u00fcr spezifische Informationen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:05:44.039095",
+        "question": "Wie erreichen Sie den Datenschutzbeauftragten?",
+        "answer": "Diese Information ist in den bereitgestellten Kontexten nicht enthalten.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:05:44.039095",
+        "question": "Wie erreichen Sie den Datenschutzbeauftragten?",
+        "answer": "Diese Information ist in den bereitgestellten Kontexten nicht enthalten.",
+        "correctAnswer": false
+    },
+    {
+        "chat_id": 2,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:27.457627",
+        "question": "Welche Daten werden gespeichert und wo finde ich HR4U",
+        "answer": "Die spezifischen Daten, die in HR4you gespeichert werden, sind in den bereitgestellten Kontexten nicht aufgef\u00fchrt. HR4you ist zug\u00e4nglich f\u00fcr alle an SAP angeschlossenen Mitarbeitenden mit einer E-Mail-Adresse und kann \u00fcber die Startseite aufgerufen werden, wo sich auch eine Suchleiste mit einem Lupensymbol befindet.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:42.555289",
+        "question": "Was kannst du zu Zertifikaten sagen ?",
+        "answer": "F\u00fcr interne Schulungen werden automatisch vom System Zertifikate generiert und m\u00fcssen nicht manuell hochgeladen werden. Externe Schulungszertifikate m\u00fcssen als Dateianhang in der jeweiligen Anfrage in HR4you hochgeladen werden, wobei das Original im Fachbereich verbleibt. Falls kein Zertifikat f\u00fcr eine externe Schulung vorliegt, sollte ein anderer Nachweis wie eine Anmeldebest\u00e4tigung hochgeladen werden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:52.772861",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die gespeicherten Daten umfassen unter anderem Name, Geburtsdatum und Adresse. Sie k\u00f6nnen diese Daten im Self-Service-Portal unter \u201eEigene pers\u00f6nliche Daten\u201c einsehen und anpassen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:52.772861",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die gespeicherten Daten umfassen unter anderem Name, Geburtsdatum und Adresse. Sie k\u00f6nnen diese Daten im Self-Service-Portal unter \u201eEigene pers\u00f6nliche Daten\u201c einsehen und anpassen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:07:07.206726",
+        "question": "Wo finde ich HR4 You",
+        "answer": "Sie k\u00f6nnen sich in HR4you \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber die URL www.rheinmetall.com/hr4you anmelden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:52.772861",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die gespeicherten Daten umfassen unter anderem Name, Geburtsdatum und Adresse. Sie k\u00f6nnen diese Daten im Self-Service-Portal unter \u201eEigene pers\u00f6nliche Daten\u201c einsehen und anpassen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:07:07.206726",
+        "question": "Wo finde ich HR4 You",
+        "answer": "Sie k\u00f6nnen sich in HR4you \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber die URL www.rheinmetall.com/hr4you anmelden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:08.996511",
+        "question": "Wie kann ich meine Daten \u00e4ndern ?",
+        "answer": "Um Ihre Daten zu \u00e4ndern, melden Sie sich im Self-Service-Portal an und navigieren Sie zu \u201eEigene pers\u00f6nliche Daten\u201c. Klicken Sie auf \u201ePers\u00f6nliche Daten anpassen\u201c und bearbeiten Sie die gew\u00fcnschten Felder durch Klicken auf das Stiftsymbol neben jedem Feld. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:52.772861",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die gespeicherten Daten umfassen unter anderem Name, Geburtsdatum und Adresse. Sie k\u00f6nnen diese Daten im Self-Service-Portal unter \u201eEigene pers\u00f6nliche Daten\u201c einsehen und anpassen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:07:07.206726",
+        "question": "Wo finde ich HR4 You",
+        "answer": "Sie k\u00f6nnen sich in HR4you \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber die URL www.rheinmetall.com/hr4you anmelden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:08.996511",
+        "question": "Wie kann ich meine Daten \u00e4ndern ?",
+        "answer": "Um Ihre Daten zu \u00e4ndern, melden Sie sich im Self-Service-Portal an und navigieren Sie zu \u201eEigene pers\u00f6nliche Daten\u201c. Klicken Sie auf \u201ePers\u00f6nliche Daten anpassen\u201c und bearbeiten Sie die gew\u00fcnschten Felder durch Klicken auf das Stiftsymbol neben jedem Feld. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:26.643098",
+        "question": "Wie viel Urlaub steht mir im Jahr zu",
+        "answer": "Die Anzahl der Urlaubstage, die Ihnen pro Jahr zustehen, h\u00e4ngt von Ihrem Arbeitsvertrag und den unternehmensspezifischen Regelungen ab. Diese Informationen finden Sie in der Regel in Ihrem Arbeitsvertrag oder k\u00f6nnen bei der Personalabteilung erfragt werden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:06:52.772861",
+        "question": "Welche Daten werden gespeichert?",
+        "answer": "Die gespeicherten Daten umfassen unter anderem Name, Geburtsdatum und Adresse. Sie k\u00f6nnen diese Daten im Self-Service-Portal unter \u201eEigene pers\u00f6nliche Daten\u201c einsehen und anpassen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:07:07.206726",
+        "question": "Wo finde ich HR4 You",
+        "answer": "Sie k\u00f6nnen sich in HR4you \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber die URL www.rheinmetall.com/hr4you anmelden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:08.996511",
+        "question": "Wie kann ich meine Daten \u00e4ndern ?",
+        "answer": "Um Ihre Daten zu \u00e4ndern, melden Sie sich im Self-Service-Portal an und navigieren Sie zu \u201eEigene pers\u00f6nliche Daten\u201c. Klicken Sie auf \u201ePers\u00f6nliche Daten anpassen\u201c und bearbeiten Sie die gew\u00fcnschten Felder durch Klicken auf das Stiftsymbol neben jedem Feld. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:26.643098",
+        "question": "Wie viel Urlaub steht mir im Jahr zu",
+        "answer": "Die Anzahl der Urlaubstage, die Ihnen pro Jahr zustehen, h\u00e4ngt von Ihrem Arbeitsvertrag und den unternehmensspezifischen Regelungen ab. Diese Informationen finden Sie in der Regel in Ihrem Arbeitsvertrag oder k\u00f6nnen bei der Personalabteilung erfragt werden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T12:08:53.295998",
+        "question": "Wie beantrage ich Elternzeit?",
+        "answer": "Um Elternzeit zu beantragen, m\u00fcssen Sie einen schriftlichen Antrag bei Ihrem Arbeitgeber einreichen. Dieser Antrag sollte sp\u00e4testens sieben Wochen vor Beginn der geplanten Elternzeit erfolgen und den genauen Zeitraum der gew\u00fcnschten Elternzeit angeben. Weitere spezifische Anforderungen und Formulare k\u00f6nnen Sie bei Ihrer Personalabteilung erfragen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:11:47.850096",
+        "question": "Was ist HR4You?",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:11:47.850096",
+        "question": "Was ist HR4You?",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:12:04.287130",
+        "question": "Wo finde ich denn HR4YOU?",
+        "answer": "Der Log-In in HR4you kann \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber www.rheinmetall.com/hr4you erfolgen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:11:47.850096",
+        "question": "Was ist HR4You?",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:12:04.287130",
+        "question": "Wo finde ich denn HR4YOU?",
+        "answer": "Der Log-In in HR4you kann \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber www.rheinmetall.com/hr4you erfolgen.",
+        "correctAnswer": true
+    },
+    {
+        "chat_id": 2,
+        "user": "benkue",
+        "date": "2024-07-25T13:16:00.854542",
+        "question": "Was gibt es beim Datenschutz zu beachten ?",
+        "answer": "Die Datenschutzgrundverordnung (DSGVO) schreibt vor, dass personenbezogene Daten nur zu bestimmten, klaren und legitimen Zwecken erhoben und verarbeitet werden d\u00fcrfen. Zudem m\u00fcssen die Daten sachlich richtig und auf dem neuesten Stand sein, und es d\u00fcrfen nur die f\u00fcr den Zweck notwendigen Daten erhoben werden. Die Sicherheit der Daten muss durch geeignete technische und organisatorische Ma\u00dfnahmen gew\u00e4hrleistet sein.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:17:34.684499",
+        "question": "Welche Mitarbeitenden haben Zugriff auf HR4you? ",
+        "answer": "Grunds\u00e4tzlich haben alle an SAP angeschlossenen Mitarbeitenden mit einer E-Mail-Adresse Zugriff auf HR4you.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:17:34.684499",
+        "question": "Welche Mitarbeitenden haben Zugriff auf HR4you? ",
+        "answer": "Grunds\u00e4tzlich haben alle an SAP angeschlossenen Mitarbeitenden mit einer E-Mail-Adresse Zugriff auf HR4you.",
+        "correctAnswer": true
+    },
+    {
+        "chat_id": 2,
+        "user": "benkue",
+        "date": "2024-07-25T13:20:09.955909",
+        "question": "Was ist HR4U",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:20:44.410390",
+        "question": "Was ist HR four U",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF). Es handelt sich um ein System, das von Rheinmetall verwendet wird, und erm\u00f6glicht unter anderem die Suche nach allen Mitarbeitenden des Konzerns weltweit.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:21:05.852235",
+        "question": "Wie kann ich meine pers\u00f6nliche Daten anpassen?",
+        "answer": "Um Ihre pers\u00f6nlichen Daten anzupassen, melden Sie sich im Self-Service-Portal an und navigieren Sie zum Men\u00fcpunkt \u201eEigene pers\u00f6nliche Daten\u201c. W\u00e4hlen Sie \u201ePers\u00f6nliche Daten anpassen\u201c aus und klicken Sie auf das Stiftsymbol neben dem Feld, das Sie \u00e4ndern m\u00f6chten. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen, nachdem Sie die Daten \u00fcberpr\u00fcft haben.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:21:05.852235",
+        "question": "Wie kann ich meine pers\u00f6nliche Daten anpassen?",
+        "answer": "Um Ihre pers\u00f6nlichen Daten anzupassen, melden Sie sich im Self-Service-Portal an und navigieren Sie zum Men\u00fcpunkt \u201eEigene pers\u00f6nliche Daten\u201c. W\u00e4hlen Sie \u201ePers\u00f6nliche Daten anpassen\u201c aus und klicken Sie auf das Stiftsymbol neben dem Feld, das Sie \u00e4ndern m\u00f6chten. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen, nachdem Sie die Daten \u00fcberpr\u00fcft haben.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:21:25.969527",
+        "question": "Wo finde ich das Self Service Portal ?",
+        "answer": "Das Self Service Portal finden Sie unter folgendem Link: [Self Service Portal Rheinmetall AG](https://performancemanager5.successfactors.eu/login?company=rheinmetalP#/login).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:21:05.852235",
+        "question": "Wie kann ich meine pers\u00f6nliche Daten anpassen?",
+        "answer": "Um Ihre pers\u00f6nlichen Daten anzupassen, melden Sie sich im Self-Service-Portal an und navigieren Sie zum Men\u00fcpunkt \u201eEigene pers\u00f6nliche Daten\u201c. W\u00e4hlen Sie \u201ePers\u00f6nliche Daten anpassen\u201c aus und klicken Sie auf das Stiftsymbol neben dem Feld, das Sie \u00e4ndern m\u00f6chten. Geben Sie die neuen Informationen ein und speichern Sie die \u00c4nderungen, nachdem Sie die Daten \u00fcberpr\u00fcft haben.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:21:25.969527",
+        "question": "Wo finde ich das Self Service Portal ?",
+        "answer": "Das Self Service Portal finden Sie unter folgendem Link: [Self Service Portal Rheinmetall AG](https://performancemanager5.successfactors.eu/login?company=rheinmetalP#/login).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:22:51.244947",
+        "question": "Wie viele Mitarbeiter arbeiten in NEuss",
+        "answer": "Die genaue Anzahl der Mitarbeiter, die in Neuss arbeiten, ist aus den bereitgestellten Informationen nicht ersichtlich.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:25:01.988437",
+        "question": "What is HR4YOU and where can i change my personal data ?",
+        "answer": "HR4YOU is the module Employee Central of SAP Success Factors used by Rheinmetall AG. You can change your personal data via the Self Service function in HR4YOU.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:25:01.988437",
+        "question": "What is HR4YOU and where can i change my personal data ?",
+        "answer": "HR4YOU is the module Employee Central of SAP Success Factors used by Rheinmetall AG. You can change your personal data via the Self Service function in HR4YOU.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T13:25:23.657434",
+        "question": "Where can i find the Self Service ?",
+        "answer": "You can access the Self Service function in HR4YOU through Gate\u00b2 (under Anwendung / HR Anwendungen / HR4you / Schulung) or by visiting www.rheinmetall.com/hr4you.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-25T16:56:16.965642",
+        "question": "pricing hire for you",
+        "answer": "Bei kostenpflichtigen Schulungen wird die H\u00f6he der Kosten in der Kursbeschreibung angezeigt.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T07:56:11.519606",
+        "question": "Was kannst du zu Zertifikaten sagen ?",
+        "answer": "Zertifikate f\u00fcr interne Schulungen werden automatisch vom System generiert und m\u00fcssen nicht manuell hochgeladen werden. Bei externen Schulungen sollten Zertifikate als Dateianhang in der entsprechenden Schulungsanfrage in HR4you hochgeladen werden. Falls kein Zertifikat vorhanden ist, kann auch ein anderer Nachweis wie eine Anmeldebest\u00e4tigung hochgeladen werden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T07:56:11.519606",
+        "question": "Was kannst du zu Zertifikaten sagen ?",
+        "answer": "Zertifikate f\u00fcr interne Schulungen werden automatisch vom System generiert und m\u00fcssen nicht manuell hochgeladen werden. Bei externen Schulungen sollten Zertifikate als Dateianhang in der entsprechenden Schulungsanfrage in HR4you hochgeladen werden. Falls kein Zertifikat vorhanden ist, kann auch ein anderer Nachweis wie eine Anmeldebest\u00e4tigung hochgeladen werden.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T08:02:21.594765",
+        "question": "Was ist HR4You und wo finde ich es ",
+        "answer": "HR4You ist das Modul Employee Central von SAP Success Factors (SF) bei Rheinmetall. Der Log-In in HR4You kann \u00fcber das Gate\u00b2 (unter Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber die Webseite www.rheinmetall.com/hr4you erfolgen.",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T09:34:16.973811",
+        "question": "Was ist HR4You?",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T09:34:16.973811",
+        "question": "Was ist HR4You?",
+        "answer": "HR4you ist das Modul Employee Central von SAP Success Factors (SF).",
+        "correctAnswer": null
+    },
+    {
+        "chat_id": 1,
+        "user": "benkue",
+        "date": "2024-07-30T09:34:27.356425",
+        "question": "WIe gelange ich dahin ?",
+        "answer": "Der Log-In in HR4you kann \u00fcber das Gate\u00b2 (Anwendung / HR Anwendungen / HR4you / Schulung) oder \u00fcber www.rheinmetall.com/hr4you erfolgen.",
+        "correctAnswer": null
+    }
+]
