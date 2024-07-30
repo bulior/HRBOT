@@ -135,3 +135,13 @@ wrapt==1.16.0
 yarl==1.9.4
 zipp==3.19.2
 pysqlite3-binary==0.5.3
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-openai
+chromadb
+pysqlite3-binary
+langchain-chroma
+getpass
