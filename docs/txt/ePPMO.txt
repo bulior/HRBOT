@@ -1,0 +1,2 @@
+Was ist die Aufgabe des ITPPB?
+Das IT Project and Porfolioboard (ITPPB) ist dafür verantwortlich die Gate-Entscheidungen für die Projekte zu treffen. In diesem Board werden die Entscheidungsslides gezeigt, besprochen und dann darüber abgestimmt. Zusätzliche Aufgabe des ITPPB ist die Kontrolle des Projektfortschritts sowie die Eskalation von Projekten mit roten Status.
